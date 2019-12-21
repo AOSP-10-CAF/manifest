@@ -38,6 +38,9 @@
 
   <!-- General repos -->
   <remove-project name="kernel/msm-4.4" />
+  <remove-project name="platform/build" />
+  <remove-project name="platform/build/blueprint" />
+  <remove-project name="platform/build/soong" />
   <remove-project name="platform/vendor/qcom/cobalt" />
   <remove-project name="platform/vendor/qcom/falcon_32" />
   <remove-project name="platform/vendor/qcom/falcon_64" />
