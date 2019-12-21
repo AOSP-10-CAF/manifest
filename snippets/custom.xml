@@ -11,4 +11,10 @@
   <!-- remove repos -->
   <include name="snippets/remove.xml" />
 
+  <!-- CodeAurora additions -->
+  <project path="vendor/qcom/opensource/power" name="AOSP-10/vendor_qcom_opensource_power" revision="10" remote="github" />
+  
+  <!-- External repos -->
+  <project path="external/chromium-webview" name="AOSP-10/external_chromium-webview" revision="10" remote="github" />
+
 </manifest>
