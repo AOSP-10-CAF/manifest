@@ -59,5 +59,6 @@
 
   <!-- Hardware repos -->
   <remove-project name="platform/hardware/qcom/audio" />
+  <remove-project name="platform/hardware/qcom/camera" />
 
 </manifest>
