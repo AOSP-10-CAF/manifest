@@ -51,7 +51,7 @@
   <project path="vendor/qcom/sdclang-8.0/linux-x86" name="vendor_qcom_sdclang-8.0_linux-x86" remote="aosp-caf" />
 
   <!-- Hardware repos -->
-  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="hardware_qcom_audio" revision="10-msm8998" remote="aosp-caf" />
+  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="hardware_qcom_audio" revision="10" remote="aosp-caf" />
   <project path="hardware/qcom/media" name="hardware_qcom_media" revision="10-msm8998" remote="aosp-caf" />
   <project path="hardware/ril" name="android_hardware_ril" remote="lineage" />
 
