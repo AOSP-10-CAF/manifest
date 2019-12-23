@@ -53,6 +53,7 @@
 
   <!-- Hardware repos -->
   <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="hardware_qcom_audio" revision="10" remote="aosp-caf" />
+  <project path="hardware/qcom/display" name="hardware_qcom_display" revision="10-msm8998" remote="aosp-caf" />
   <project path="hardware/qcom/media" name="hardware_qcom_media" revision="10-msm8998" remote="aosp-caf" />
   <project path="hardware/ril" name="android_hardware_ril" remote="lineage" />
 
