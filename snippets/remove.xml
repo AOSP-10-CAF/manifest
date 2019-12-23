@@ -42,6 +42,7 @@
   <remove-project name="platform/external/wpa_supplicant_8" />
 
   <!-- Framework repos -->
+  <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/opt/telephony" />
 

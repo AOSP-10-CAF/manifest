@@ -28,6 +28,7 @@
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="aosp-caf" />
 
   <!-- Framework repos -->
+  <project path="frameworks/av" name="frameworks_av" remote="aosp-caf" />
   <project path="frameworks/base" name="frameworks_base" remote="aosp-caf" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="aosp-caf" />
 
